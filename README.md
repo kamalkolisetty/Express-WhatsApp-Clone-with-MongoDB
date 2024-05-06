@@ -87,7 +87,43 @@ Once the server is running, you can access the routes described above to view, c
 
 ## Demonstration
 
-![one] (images/1.png)
+![one](images/1.png)
+
+
+![one](images/2.png)
+
+
+![one](images/3.png)
+
+
+![one](images/4.png)
+
+
+![one](images/5.png)
+
+
+![one](images/6.png)
+
+
+![one](images/7.png)
+
+
+![one](images/8.png)
+
+
+![one](images/9.png)
+
+
+![one](images/a.png)
+
+
+![one](images/b.png)
+
+
+![one](images/c.png)
+
+
+
 
 ## Contributing
 
